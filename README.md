@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Afsheen13
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on Data Science projects
+- 📫 How to reach me: afsheen13.shaikh@gmail.com
